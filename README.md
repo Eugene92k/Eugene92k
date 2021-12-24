@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Evgenii Gorovoy.
 - I'm from Kemerovo, Russia.
-- 🌱 I’m currently learning android developins with kotlin.
-- 📫 Contact - telegram @Eugene92k, gmail egorovoy92@gmail.com
+- I’m currently learning android developing with kotlin.
+- Contact - telegram @Eugene92k, gmail egorovoy92@gmail.com
