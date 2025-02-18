@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Evgeniy Gorovoy.
 - I'm from Kemerovo, Russia.
-- I’m android developer.
-- Contact - telegram @eugene_gorovoy, gmail gorovoydev@gmail.com
+- I’m an android developer.
+- Contact me - telegram @eugene_gorovoy, mail gorovoydev@gmail.com
